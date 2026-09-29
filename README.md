@@ -26,3 +26,4 @@ Creative Commons Atribución 4.0 Internacional (CC BY 4.0).
 En GitHub: Settings → Pages → Build and deployment → Deploy from a branch → main → root → Save.
 
 El sitio está construido sin frameworks: index.html contiene la estructura, estilos y comportamiento interactivo.
+Sitio web educativo Cuadro a Cuadro, pensando el mundo.
