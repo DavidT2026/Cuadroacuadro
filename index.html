@@ -490,7 +490,7 @@ nav{position:sticky;top:0;z-index:20;background:rgba(255,255,255,.94);backdrop-f
 
 <script>
 const phases=[...document.querySelectorAll('.phase')];
-phases.forEach((p,i)=>{p.querySelector('.phasetop').addEventListener('click',()=>{const was=p.classList.contains('open');phases.forEach(x=>x.classList.remove('open'));if(!was)p.classList.add('open');updateProgress();});});
+phases.forEach((p,i)=>{p.querySelector('.phasetop').addEventListener('click',()=>{const was=p.classList.contains('open');phases.forEach(x=>x.classList.remove('open'));if(!was)p.classList.add('open');});});
 
 </script>
 </body>
